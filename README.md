@@ -1,1 +1,3 @@
-This is the supporting code for [this video](https://youtu.be/lGokKxJ8D2c)
+Please run 
+npm install -g http-server
+and then run http-server to run the website
